@@ -1,3 +1,6 @@
+# Nama : Ulfaturrahmi
+# NIM  : 204855030
+
 from flask import Flask, request, jsonify, json
 from flask_sqlalchemy import SQLAlchemy
 from flask_mysqldb import MySQL
